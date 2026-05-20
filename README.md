@@ -75,14 +75,10 @@ to examine a central question:
 .
 ├── presentation/
 │   └── The Illusion of Knowing.pdf
-├── references/
-│   ├── papers/
-│   └── bibliography/
 ├── prompts/
 │   ├── epistemic_governance_protocol.md
 │   └── explain_like_feynman.md
-├── images/
-├── notes/
+│   └── SKILL.md
 └── README.md
 ```
 
